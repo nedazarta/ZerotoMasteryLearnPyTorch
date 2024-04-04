@@ -1,1 +1,1 @@
-# ZeroZerotoMasteryLearnPyTorch
+# ZerotoMasteryLearnPyTorch
